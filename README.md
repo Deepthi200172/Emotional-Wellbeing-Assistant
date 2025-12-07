@@ -1,4 +1,4 @@
-⚙️ 🔶 ReAct Architecture (Reasoning + Acting)
+### ReAct Architecture (Reasoning + Acting) 
 
 This project includes a complete implementation of the ReAct pattern:
 
